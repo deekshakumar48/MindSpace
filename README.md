@@ -1,6 +1,13 @@
 # mind_space
 
-A new Flutter project.
+Mind space assists you in identifying any mental health concerns you 
+may have. It does so by allowing you to take a test that is easy and way of finding out based 
+on the symptoms you may have. Our Questionnaire assists you in identifying the problem, and 
+the resulting information directs you down the correct road to take, ensuring that you will find 
+a solution. Your results may indicate whether or not you would benefit from treatment by one 
+of our experts. Through motivational presentations and blogging, Mind Space also encourages 
+people to improve their mental health. We also offer some advice and guidelines for living a 
+better life.
 
 ## Getting Started
 
